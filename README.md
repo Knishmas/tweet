@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 
-1. Clone this repository to your local machine using `https://github.com/<your-github-username>/twitter-sentiment-analysis.git`
+1. Clone this repository to your local machine using `https://github.com/Knishmas/tweet-sentiment-analyser.git`
 2. Navigate to the project directory using `cd twitter-sentiment-analysis`
 3. Download the dataset file from [here](https://drive.google.com/file/d/1W4vyG4CkO1FqFtpmgIW5h1pK_g4uQ4dW/view?usp=sharing) and place it in the project directory.
 4. Open the Jupyter Notebook using `jupyter notebook`
