@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis using VADER
+# Twitter Sentiment Analysis
 
 This project is a machine learning application that analyzes the sentiment of tweets using the VADER (Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis tool from NLTK.
 
